@@ -38,4 +38,4 @@ matching candidates to job requirements, and generating detailed analysis report
 - JSON report generation
 
 ## Demo Video
-[![Resume Analyzer Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Resume Analyzer Demo](https://img.youtube.com/vi/9HbChhcTKfU/0.jpg)](https://www.youtube.com/watch?v=9HbChhcTKfU)
