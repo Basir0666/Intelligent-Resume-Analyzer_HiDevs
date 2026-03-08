@@ -1,5 +1,5 @@
 def resume_input():
-    print("Enter your resume details:")
+    print("\nEnter Resume Details:\n")
     name = input("Name: ")
     email = input("Email: ")
     skills = input("Skills (comma separated): ")
