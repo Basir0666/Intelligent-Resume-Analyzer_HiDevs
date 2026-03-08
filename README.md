@@ -36,3 +36,6 @@ matching candidates to job requirements, and generating detailed analysis report
 - Education level hierarchy matching
 - Experience validation
 - JSON report generation
+
+## Demo Video
+[![Resume Analyzer Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
