@@ -1,4 +1,5 @@
 def requirement_input():
+    print("\nNow Enter Job Requiremnt Details:\n")
     job_title = input("Enter Job Title: ").title()
     skills = input("Required skills (comma separated): ")
     while True:
